@@ -1,5 +1,9 @@
 # Rubik's Cube Solver
 
+<p align="center">
+ <img src="https://github.com/gthbrc/rubiks-solver/blob/master/example.gif" alt="Example" width="800">
+</p>
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
