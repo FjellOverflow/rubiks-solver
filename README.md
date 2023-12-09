@@ -1,7 +1,7 @@
 # Rubik's Cube Solver
 
 <p align="center">
- <img src="https://github.com/gthbrc/rubiks-solver/blob/master/example.gif" alt="Example" width="300">
+ <img src="https://github.com/FjellOverflow/rubiks-solver/blob/master/example.gif" alt="Example" width="300">
 </p>
 
 ## Table of Contents
